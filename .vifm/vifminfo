@@ -1,0 +1,541 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'b
+	/home/arojtblat/bin/
+	../
+1401957691
+'d
+	/E/_Downloads
+	../
+1402045080
+'e
+	/E
+	../
+1402597485
+'h
+	/home/arojtblat/
+	../
+1401957691
+'p
+	/E/_Packages
+	../
+1402235014
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/E/_Drive/setUpRepo/.vim/bundle
+	../
+0
+d/E/_Drive/setUpRepo/.vim
+	bundle/
+2
+d/E/_Drive/setUpRepo
+	.vim/
+2
+d/E/_Drive/setUpRepo/.vim
+	autoload/
+1
+d/E/_Drive/setUpRepo/.vim/autoload
+	../
+0
+d/E/_Drive/setUpRepo/.vim
+	bundle/
+2
+d/E/_Drive/setUpRepo/.vim/bundle
+	../
+0
+d/E/_Drive/setUpRepo/.vim
+	bundle/
+2
+d/E/_Drive/setUpRepo/.vim/bundle
+	../
+0
+d/E/_Drive/setUpRepo/.vim
+	bundle/
+3
+d/E/_Drive/setUpRepo
+	.vim/
+2
+d/E/_Drive/setUpRepo/.vim
+	bundle/
+3
+d/E/_Drive/setUpRepo
+	.vifm/
+1
+d/E/_Drive/setUpRepo/.vifm
+	Trash/
+1
+d/E/_Drive/setUpRepo/.vifm/Trash
+	../
+0
+d/E/_Drive/setUpRepo/.vifm
+	Trash/
+1
+d/E/_Drive/setUpRepo
+	.vifm/
+1
+d/E/_Drive
+	setUpRepo/
+18
+d/E
+	_Drive/
+21
+d/
+	R/
+5
+d/R
+	natural_attraction/
+1
+d/R/natural_attraction
+	06_sim/
+7
+d/R/natural_attraction/06_sim
+	080/
+7
+d/R/natural_attraction/06_sim/080
+	geo/
+3
+d/R/natural_attraction/06_sim/080/geo
+	../
+0
+d/R/natural_attraction/06_sim/080
+	geo/
+3
+d/R/natural_attraction/06_sim/080/geo
+	../
+0
+d/R/natural_attraction/06_sim/080
+	geo/
+3
+d/R/natural_attraction/06_sim
+	080/
+7
+d/R/natural_attraction
+	06_sim/
+7
+d/R
+	natural_attraction/
+1
+d/
+	E/
+2
+d/E
+	_Drive/
+21
+d/E/_Drive
+	../
+0
+d/E
+	_Drive/
+21
+d/
+	usr/
+24
+d/usr
+	include/
+2
+d/usr/include
+	KHR/
+13
+d/usr/include/KHR
+	../
+0
+d/usr/include
+	llvm/
+50
+d/usr/include/llvm
+	../
+0
+d/usr/include
+	llvm-c/
+50
+d/usr/include/llvm-c
+	../
+0
+d/usr/include
+	llvm-c/
+50
+d/usr/include/llvm-c
+	../
+0
+d/usr/include
+	llvm/
+49
+d/usr/include/llvm
+	../
+0
+d/usr/include
+	linux/
+48
+d/usr
+	lib/
+3
+d/usr/lib
+	PepperFlash/
+5
+d/usr
+	lib/
+3
+d/usr/lib
+	PepperFlash/
+5
+d/usr
+	bin/
+1
+d/usr/bin
+	llvm-ar
+50
+d/usr
+	../
+0
+d/
+	usr/
+24
+d/usr
+	include/
+2
+d/usr/include
+	linux/
+48
+d/usr
+	bin/
+1
+d/usr/bin
+	llvm-as
+30
+d/usr
+	bin/
+1
+d/
+	usr/
+24
+d/usr
+	include/
+2
+d/usr/include
+	libyelp/
+47
+d/usr
+	include/
+2
+d/
+	tmp/
+23
+d/tmp
+	ycm_temp/
+19
+d/tmp/ycm_temp
+	server_59178_stdout.log
+24
+d/tmp
+	ycm_temp/
+19
+d/tmp/ycm_temp
+	../
+0
+d/tmp
+	ycm_temp/
+18
+d/
+	home/
+10
+d/home
+	arojtblat/
+1
+d/home/arojtblat
+	.vim/
+21
+d/home/arojtblat/.vim
+	bundle/
+2
+d/home/arojtblat/.vim/bundle
+	YouCompleteMe/
+3
+d/home/arojtblat/.vim/bundle/YouCompleteMe
+	../
+0
+d/home/arojtblat/.vim/bundle
+	YouCompleteMe/
+3
+d/home/arojtblat/.vim
+	bundle/
+2
+d/home/arojtblat
+	.thumbnails/
+19
+d/home
+	arojtblat/
+1
+d/
+	E/
+2
+d/E
+	_Packages/
+22
+d/E/_Packages
+	QT/
+2
+d/E/_Packages/QT
+	5.3/
+1
+d/E/_Packages/QT/5.3
+	gcc_64/
+1
+d/E/_Packages/QT/5.3/gcc_64
+	../
+0
+d/E/_Packages/QT/5.3
+	source/
+2
+d/E/_Packages/QT/5.3/source
+	qtbase/
+6
+d/E/_Packages/QT/5.3/source/qtbase
+	src/
+4
+d/E/_Packages/QT/5.3/source
+	qtbase/
+6
+d/E/_Packages/QT/5.3
+	source/
+2
+d/E/_Packages/QT
+	5.3/
+1
+d/E/_Packages
+	QT/
+2
+d/E
+	_Packages/
+16
+d/
+	home/
+10
+d/home
+	arojtblat/
+1
+d/home/arojtblat
+	Dotfiles/
+4
+d/home/arojtblat/Dotfiles
+	.screenrc
+3
+d/home/arojtblat
+	.conkyrc
+13
+d
+
+# Right window history (oldest to newest):
+D/usr
+	include/
+2
+D/usr/include
+	qt4/
+50
+D/usr
+	include/
+2
+D/home/arojtblat/Videos
+	../
+0
+D/opt/hfs13.0.401
+	../
+0
+D/home/arojtblat
+	../
+0
+D/home
+	../
+0
+D/
+	home/
+9
+D/home
+	arojtblat/
+1
+D/home/arojtblat
+	tmp/
+11
+D/home/arojtblat/tmp
+	../
+0
+D/home/arojtblat
+	tmp/
+11
+D/home/arojtblat/tmp
+	../
+0
+D/home/arojtblat
+	tmp/
+11
+D/home/arojtblat/tmp
+	vifm_FUSE/
+1
+D/home/arojtblat/tmp/vifm_FUSE
+	../
+0
+D/home/arojtblat/tmp
+	../
+0
+D/home/arojtblat
+	../
+0
+D/home
+	arojtblat/
+1
+D/
+	E/
+1
+D/E
+	_Downloads/
+11
+D/E/_Downloads
+	Hannibal Season 1 HDTV.XviD[Pawulon]/
+1
+D/E
+	_QTMagnum/
+14
+D/E/_QTMagnum
+	QTTest/
+1
+D/E/_QTMagnum/QTTest
+	CMakeLists.txt
+5
+D/E/_QTMagnum
+	QTTest/
+2
+D/E
+	_QTMagnum/
+14
+D/
+	home/
+10
+D/home
+	arojtblat/
+1
+D/home/arojtblat
+	.vim/
+6
+D/home/arojtblat/.vim
+	autoload/
+1
+D/home/arojtblat/.vim/autoload
+	../
+0
+D/home/arojtblat/.vim
+	bundle/
+2
+D/home/arojtblat/.vim/bundle
+	Vundle.vim/
+1
+D/home/arojtblat/.vim/bundle/Vundle.vim
+	.git/
+1
+D/home/arojtblat/.vim/bundle
+	Vundle.vim/
+1
+D/home/arojtblat/.vim
+	bundle/
+2
+D/home/arojtblat
+	.vimrc
+20
+D/home
+	arojtblat/
+1
+D/
+	home/
+10
+D/home
+	arojtblat/
+1
+D/home/arojtblat
+	.config/
+3
+D/home
+	arojtblat/
+1
+D/
+	E/
+2
+D/E
+	_QTMagnum/
+14
+D/
+	home/
+10
+D/home
+	arojtblat/
+1
+D/home/arojtblat
+	Dotfiles/
+13
+D/home/arojtblat/Dotfiles
+	../
+0
+D
+
+# Command line history (oldest to newest):
+:sudo vim fstab
+:cd /E/_Downloads/
+:marks
+:screen
+:!cd ~
+:cd /tmp/
+:cd ~
+:cd ~/tmp/
+:e
+:mkdir _Drive
+:q
+:help
+
+# Search history (oldest to newest):
+/wt
+/qt\
+/qt
+/fsta
+/log
+/var
+/fst
+/vifm
+/cd ~
+/libclangkjkjk
+/llv
+
+# Prompt history (oldest to newest):
+pzakkjkManjaro
+pDownloads
+ps a
+psa
+ps
+pcolors
+p.screenrc
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/arojtblat/.bashrc
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s1

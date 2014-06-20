@@ -1,0 +1,323 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'b
+	/home/arojtblat/bin/
+	../
+1401957691
+'d
+	/E/_Downloads
+	../
+1402045080
+'h
+	/home/arojtblat/
+	../
+1401957691
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/opt/hfs13.0.401
+	bin/
+1
+d/opt
+	hfs13.0.401/
+1
+d/
+	H/
+2
+d/H
+	../
+0
+d/
+	E/
+1
+d/E
+	Documents and Settings/
+6
+d/
+	E/
+1
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	Images_Nestle.zip
+7
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	Images_Nestle.zip
+7
+d/E
+	_Downloads/
+13
+d/
+	etc/
+8
+d/etc
+	depmod.d/
+5
+d/
+	etc/
+8
+d/etc
+	fstab
+20
+d/
+	root/
+17
+d/root
+	Manjaro/
+1
+d/root/Manjaro
+	../
+0
+d/root
+	Manjaro/
+1
+d/
+	sys/
+19
+d/sys
+	../
+0
+d/
+	etc/
+6
+d/etc
+	logrotate.d/
+4
+d/
+	var/
+22
+d/var
+	log/
+9
+d/var/log
+	journal/
+2
+d/var/log/journal
+	2f9018972d2d4413b03f428d48ca3b32/
+1
+d/var/log/journal/2f9018972d2d4413b03f428d48ca3b32
+	system.journal
+1
+d/var/log/journal
+	2f9018972d2d4413b03f428d48ca3b32/
+1
+d/var/log
+	lastlog
+12
+d/var
+	log/
+9
+d/
+	etc/
+6
+d/etc
+	fstab
+16
+d/
+	R/
+4
+d/R
+	natural_attraction/
+1
+d/R/natural_attraction
+	_4Amit/
+11
+d/R/natural_attraction/_4Amit
+	080_stormcell/
+1
+d/R/natural_attraction/_4Amit/080_stormcell
+	reference/
+3
+d/R/natural_attraction/_4Amit/080_stormcell/reference
+	170001116 le stormcell.mp4
+2
+d/R/natural_attraction/_4Amit/080_stormcell
+	reference/
+3
+d/R/natural_attraction/_4Amit
+	080_stormcell/
+1
+d/R/natural_attraction
+	_4Amit/
+11
+d/E/_Downloads
+	dmenu-4.5-monarg.diff
+17
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	dmenu-4.5-monarg.diff
+17
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	corrade-master.zip
+16
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	corrade-master.zip
+16
+d/E
+	_Downloads/
+13
+d/
+	E/
+1
+d/E/_Downloads
+	dmenu-4.5-monarg.diff
+19
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	Images_Nestle/
+1
+d/E
+	_Downloads/
+13
+d/E/_Downloads
+	Images_Nestle/
+1
+d/E
+	_Downloads/
+13
+d/home/arojtblat
+	.vifm/
+17
+d/home/arojtblat/.vifm
+	vifmrc
+5
+d/home/arojtblat
+	.vifm/
+17
+d/E/_Downloads
+	corrade-master.zip
+18
+d/home/arojtblat
+	.vifm/
+17
+d/home/arojtblat/.vifm
+	vifmrc
+5
+d/home/arojtblat
+	.vifm/
+17
+d/home/arojtblat/.vifm
+	vifmrc
+6
+d/E/_Downloads
+	corrade-master.zip
+18
+d/home/arojtblat/tmp/vifm_FUSE/001_corrade-master.zip
+	../
+0
+d/E/_Downloads
+	corrade-master.zip
+13
+d/home/arojtblat/tmp/vifm_FUSE/001_corrade-master.zip
+	../
+0
+d/E/_Downloads
+	corrade-git.tar.gz
+12
+d
+
+# Right window history (oldest to newest):
+D/opt/hfs13.0.401
+	../
+0
+D/home/arojtblat
+	../
+0
+D/home
+	../
+0
+D/
+	home/
+9
+D/home
+	arojtblat/
+1
+D/home/arojtblat
+	tmp/
+11
+D/home/arojtblat/tmp
+	../
+0
+D/home/arojtblat
+	tmp/
+11
+D/home/arojtblat/tmp
+	../
+0
+D/home/arojtblat
+	tmp/
+11
+D/home/arojtblat/tmp
+	vifm_FUSE/
+1
+D/home/arojtblat/tmp/vifm_FUSE
+	../
+0
+D/home/arojtblat/tmp
+	vifm_FUSE/
+1
+D
+
+# Command line history (oldest to newest):
+:sudo vim fstab
+:cd /E/_Downloads/
+:marks
+:screen
+:q
+:!cd ~
+:cd /tmp/
+:cd ~
+:cd ~/tmp/
+:e
+
+# Search history (oldest to newest):
+/fsta
+/log
+/var
+/fst
+/vifm
+/cd ~
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s1
